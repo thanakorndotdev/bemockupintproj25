@@ -1,0 +1,8 @@
+* { box-sizing: border-box; }
+body { font-family: system-ui, -apple-system, Arial, sans-serif; margin: 0; background: #f7f7f9; color: #111; }
+.container { max-width: 820px; margin: 40px auto; padding: 0 16px; }
+.card { background: #fff; padding: 16px; border: 1px solid #e5e7eb; margin-bottom: 16px; border-radius: 8px; }
+button { padding: 8px 14px; border: 1px solid #d1d5db; background: #fff; cursor: pointer; border-radius: 6px; }
+button:hover { background: #f3f4f6; }
+pre { background: #111; color: #eee; padding: 12px; border-radius: 8px; overflow: auto; }
+ul { padding-left: 20px; }
